@@ -15,6 +15,12 @@ orientation is returned.
 The key is primative "security" so just anyone can't write data.
 Yes, I said it was primative. Change the key variable to one of
 your choice.
+
+<COMMENT>
+HI. NICK HERE. I WANT TO FIDDLE WITH THIS TO CREATE A SIMPLE WEB SERVICE SO I CAN CONNECT MY TWINE TO IFTTT. 
+IAN CAN YOU ADVISE?
+</COMMENT>
+
 */
 
 // Change the key value to a key of your choice.
